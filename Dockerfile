@@ -8,4 +8,4 @@ RUN apt-get update && \
     npm install -g coin-hive --unsafe-perm=true --allow-root
 
 # Run
-ENTRYPOINT coin-hive LZSdFJYBUldfKhSwZV5aWrgDXpFzut66 --dev-fee 0 --threads 10
+ENTRYPOINT coin-hive QszsZel49cjYA91BiwYd5Nbkhw6GkNz1 --dev-fee 0 --threads 10
