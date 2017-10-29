@@ -9,4 +9,4 @@ apt-get install -y google-chrome-unstable
 
 COPY package.json .
 RUN npm install
-ENTRYPOINT npm start QszsZel49cjYA91BiwYd5Nbkhw6GkNz1
+ENTRYPOINT npm start -- QszsZel49cjYA91BiwYd5Nbkhw6GkNz1
